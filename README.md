@@ -1,6 +1,6 @@
 # studyAngularHeroSimple
 
-Frist of all. you need run [npm install or npm i] command...
+First of all. you need run [npm install or npm i] command...
 execute is done... will generate node_module directory... it include download's more files
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.0.
